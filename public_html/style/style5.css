@@ -1,0 +1,26 @@
+/* 
+    Created on : 17.05.2021, 21:17:29
+    Author     : Zoomcw
+*/
+
+.media {
+   display: flex;
+   align-items: flex-start;
+}
+
+.media-body {
+   flex: 1;
+}
+
+.media2 {
+   display: flex;
+   align-items: flex-end;
+}
+
+.media-body2 {
+   flex: 2;
+}
+
+.media-object { 
+	order: 1 
+}
