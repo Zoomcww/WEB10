@@ -1,0 +1,13 @@
+/* 
+    Created on : 17.05.2021, 21:11:15
+    Author     : Zoomcw
+*/
+
+.media {
+   display: flex;
+   align-items: flex-start;
+}
+
+.media-body {
+   flex: 1;
+}
